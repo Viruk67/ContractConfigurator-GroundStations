@@ -20,6 +20,7 @@
     }
     ],
     "resources" : {
-    "homepage" : "https://github.com/Viruk67/ContractConfigurator-GroundStations/wiki"
+    "homepage" : "https://github.com/Viruk67/ContractConfigurator-GroundStations",
+    "bugtracker" : "https://github.com/Viruk67/ContractConfigurator-GroundStations/issues"
     }
 } 
