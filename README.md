@@ -30,7 +30,7 @@ There is currently no easy way to determine if a given ground station has a rout
 
 ## Licence
 
-For licencing information see [here](https://raw.githubusercontent.com/Viruk67/ContractConfigurator-GroundStations/master/LICENSE.md)
+For licencing information see [here](https://raw.githubusercontent.com/Viruk67/ContractConfigurator-GroundStations/master/LICENSE)
 
 ## Credits
 
