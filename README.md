@@ -35,4 +35,4 @@ For licencing information see [here](https://raw.githubusercontent.com/Viruk67/C
 ## Credits
 
 - nightingale for the [ContractConfigurator](https://forum.kerbalspaceprogram.com/index.php?/topic/91625-130-contract-configurator-v1232-2017-08-03/) mod
-- Squad for [Kerbal Space Program](https://kerbalspaceprogram.com/en/)
+- Squad for [Kerbal Space Program](https://kerbalspaceprogram.com)
