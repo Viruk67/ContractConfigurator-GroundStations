@@ -22,11 +22,9 @@ It is assumed the Player will disable ground stations on Kerbin from the _Advanc
 
 There is currently no easy way to determine if a given ground station has a route back to the KSC. Any antenna will do, provided it has _relay_ capability. This includes antenna from mods.
 
-## Future Plans
+## Known Issues
 
-- Set a suitable REQUIREMENT before contracts start being offered on Kerbin and elsewhere
-- Compute the antenna strength required for a given contract to be offered and display that to the Player on the contract
-- More tightly integrate with other mods such as [RemoteTech](https://forum.kerbalspaceprogram.com/index.php?/topic/139167-13-remotetech-v188-2017-09-03/)
+- Waypoints for prospective ground stations do not display the agency name associated with them. This seems to be a bug in Contract Configurator
 
 ## Licence
 
